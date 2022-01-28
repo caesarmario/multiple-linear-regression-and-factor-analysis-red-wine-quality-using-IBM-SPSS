@@ -18,7 +18,7 @@
   - [About Project](#-about-project)
   - [Objectives](#-objectives)
   - [Data Set Description](#-data-set-description)
-  - [Articles](#-etl-process)
+  - [Articles](#-articles)
 <br>
 
 ## 🖋 About Project
@@ -38,8 +38,9 @@ about red wine quality dataset.
 <br><br>
 
 ## 📰 Articles
-*   The article about multiple linear regression is available [here](https://caesarmario.medium.com/multiple-linear-regression-in-red-wine-quality-bd42933b7b27)
-*   The article about factor analysis is available [here](https://caesarmario.medium.com/multiple-linear-regression-in-red-wine-quality-bd42933b7b27)
+*   The article about **multiple linear regression** is available [here](https://caesarmario.medium.com/multiple-linear-regression-in-red-wine-quality-bd42933b7b27)
+*   The article about **factor analysis** is available [here](https://caesarmario.medium.com/multiple-linear-regression-in-red-wine-quality-bd42933b7b27)
+<br><br>
 
 ## 🙌 Support me!
 
