@@ -1,2 +1,49 @@
-# multiple-linear-regression-and-factor-analysis-red-wine-quality-using-IBM-SPSS
-This repository stored the output of IBM SPSS's multiple linear regression and factor analysis of red wine quality dataset. The dataset used is from Kaggle (https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009). The software used in this repository is IBM SPSS 26
+<h1 align="center"> 🍷 Multiple Linear Regression and Factor Analysis 🍷 </h1>
+<p align="center">using <b>IBM SPSS Statistics 🧮</b><br><br>
+.: 📄 Dataset taken from <b><a href="https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009"> Kaggle </a></b> :.
+</p><br>
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+  <a href="https://www.github.com/caesarmario">
+    <img src="https://img.shields.io/github/followers/caesarmario?style=social&link=https://www.github.com/caesarmario" alt"GitHub"/>
+  </a>
+  <a href="https://linktr.ee/caesarmario_">
+    <img src="https://img.shields.io/badge/Follow%20My%20Other%20Works-019875?style=flat&labelColor=019875&link=https:/linktr.ee/caesarmario_" alt"Linktree"/>
+  </a>
+</p>
+<br>
+
+
+## 📃 Table of Contents:
+  - [About Project](#-about-project)
+  - [Objectives](#-objectives)
+  - [Data Set Description](#-data-set-description)
+  - [ETL Process](#-etl-process)
+      - [Application Record](#-application-record)
+
+<br>
+
+## 🖋 About Project
+*   This repository contains:
+    - 
+<br><br>
+
+## 📌 Objectives
+*   P
+<br><br>
+
+## 🧾 Data Set Description
+*   The dataset description can be seen <a href="https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009"><b>here</b></a>.
+<br><br>
+
+## 
+
+
+## 🙌 Support me!
+
+👉 If you find this project useful, **please ⭐ this repository 😆**!
+### 🎈 Check out my articles about multiple linear regression *[here](https://caesarmario.medium.com/multiple-linear-regression-in-red-wine-quality-bd42933b7b27)* and factor analysis *[here](XXX)* using IBM SPSS Statistics 26 !
+
+---
+
+👉 _More about myself: <a href="https://linktr.ee/caesarmario_"> here </a>_
